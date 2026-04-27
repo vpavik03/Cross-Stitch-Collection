@@ -7,3 +7,4 @@ subject,true,true
 location,true,false
 genre,true,true
 fabric,true,true
+thread,true,true

@@ -8,3 +8,4 @@ location,true,false
 genre,true,true
 fabric,true,true
 thread,true,true
+technique,true,true
